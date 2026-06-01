@@ -3,7 +3,7 @@
 
 A passionate developer with hands-on experience building practical software solutions, bridging the gap between clean code and functional business systems. Focused on software development, database management, and building user-centric applications.
 
-Live Pofile: https://github.com/juanmiguelsorrosa568-max/juanmiguelsorrosa568-max.github.io.git
+Live Pofile: https://juanmiguelsorrosa568-max.github.io/
 
 ---
 
